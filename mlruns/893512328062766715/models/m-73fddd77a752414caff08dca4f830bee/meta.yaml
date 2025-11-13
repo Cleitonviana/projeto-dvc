@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/clviana/demonstrate-dvc/mlruns/893512328062766715/models/m-73fddd77a752414caff08dca4f830bee/artifacts
+creation_timestamp: 1763064841313
+experiment_id: '893512328062766715'
+last_updated_timestamp: 1763064868031
+model_id: m-73fddd77a752414caff08dca4f830bee
+model_type: null
+name: model
+source_run_id: 26268e2c447840678d046c2815359855
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/clviana/demonstrate-dvc/mlruns/893512328062766715/26268e2c447840678d046c2815359855/artifacts
+end_time: 1763064868072
+entry_point_name: ''
+experiment_id: '893512328062766715'
+lifecycle_stage: active
+run_id: 26268e2c447840678d046c2815359855
+run_name: youthful-elk-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763064682601
+status: 3
+tags: []
+user_id: clviana
