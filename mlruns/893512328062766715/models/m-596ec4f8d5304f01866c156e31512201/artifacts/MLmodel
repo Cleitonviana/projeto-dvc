@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/clviana/demonstrate-dvc/mlruns/893512328062766715/models/m-596ec4f8d5304f01866c156e31512201/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.13.8
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.9.0+cpu
+mlflow_version: 3.6.0
+model_id: m-596ec4f8d5304f01866c156e31512201
+model_size_bytes: 31123703
+model_uuid: m-596ec4f8d5304f01866c156e31512201
+prompts: null
+run_id: 6d642070e02a4fb4ac3c5f94dc504a7a
+utc_time_created: '2025-11-13 19:55:32.070915'

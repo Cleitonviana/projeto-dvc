@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/clviana/demonstrate-dvc/mlruns/893512328062766715/801d7767da7b442aa692f1fd0645c3b5/artifacts
+end_time: 1763062772565
+entry_point_name: ''
+experiment_id: '893512328062766715'
+lifecycle_stage: active
+run_id: 801d7767da7b442aa692f1fd0645c3b5
+run_name: bouncy-donkey-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763062570781
+status: 3
+tags: []
+user_id: clviana

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/clviana/demonstrate-dvc/mlruns/893512328062766715/6d642070e02a4fb4ac3c5f94dc504a7a/artifacts
+end_time: 1763063789097
+entry_point_name: ''
+experiment_id: '893512328062766715'
+lifecycle_stage: active
+run_id: 6d642070e02a4fb4ac3c5f94dc504a7a
+run_name: powerful-bear-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763063549745
+status: 3
+tags: []
+user_id: clviana
