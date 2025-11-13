@@ -5,7 +5,7 @@ import os
 
 # Simula métricas
 metrics = json.load(open("metrics/metrics.json"))
-acc = metrics["mean_iou"]
+acc = metrics["accuracy"]
 
 # Curvas simuladas
 x = np.linspace(0, 1, 100)
